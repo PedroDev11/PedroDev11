@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Engineer Peter and I’m Java Developer JR.
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning React and Angular for Frontend.
+- 💞️ I’m looking to collaborate on projects and solving issues
+- 📫 How to reach me by email: pedro2076r@gmail.com
+- 
